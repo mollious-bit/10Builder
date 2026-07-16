@@ -1,0 +1,15 @@
+(https://10build.base44.app) to get
+install as PWA please!
+
+updates-
+V2.5.0
+July 2026
+Fixed published apps being set to private — the public toggle now works immediately without entering edit mode
+
+Sync button — pull all your projects from the cloud (including ones made on other devices) and sync editor settings across platforms
+
+Local drafts now upload to the cloud on sync so they appear on every device
+
+Removed the radial menu (Ctrl+Alt) for a cleaner canvas
+
+Editor settings now persist locally and sync to your account
