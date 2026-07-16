@@ -1,7 +1,8 @@
-this is vibecoded app builder built with base44. there will onnly be one release and it will be updated with each new version, you cannot use old versions as i cant figure that out yet ): 
-it is a visual app builder and prototyping platform for designing, animating, and publishing interactive user interface screens with a layout engine loosely based on the Windows Fluent UI design system, thouigh it looks like shit, local-first file saving, and cloud collaboration features.
+this is vibecoded app builder built with base44. there will only be one release and it will be updated with each new version, you cannot use old versions as i cant figure that out yet ): 
+it is a visual app builder and prototyping platform for designing, animating, and publishing interactive user interface screens. local-first file saving, and cloud collaboration features.
 
-THIS IS A *DESKTOP ONLY* APP! Mobile app is planned, but that versioon wont get often updates!
+# THIS IS A *DESKTOP ONLY* APP! Mobile app is planned, but that versioon wont get often updates!
+
 ## Highlights
 
 Cloud Sync & Cross-Platform Access: Open projects hosted in the cloud for editing from any device. Local drafts auto-backup and sync to your account when online.
