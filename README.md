@@ -15,14 +15,14 @@ Project files are saved as local `.tsp` files (or legacy `.abpj` files).
 Embedded images are converted and stored as Base64-encoded data URLs to maintain fidelity when reloading the page or exporting the project.
 ## Changelog
 
- v2.5.0
+## v2.5.0
 
 A manual sync button was added to sync projects from the cloud or update the local editor.
 Local drafts now upload to the cloud during sync.
 Published apps can now be set to public or private directly from the editor without entering the preview mode.
 The old Ctrl+Alt radial menu has been removed to make more space on the canvas.
 
- v2.4.5-v2.4.9
+## v2.4.5-v2.4.9
 
 Options to configure the editor were added, including Snap to Grid, Grid Size, Show Coordinates, and default screen size.
 Saving a draft to your homepage without publishing it as a standalone app became possible.
@@ -31,7 +31,7 @@ A duplicate screen button was added to the Screens panel.
 The unresponsive UI bug when closing Project Settings was fixed.
 Preview rendering performance was improved.
 
- v2.4.0-v2.4.4
+## v2.4.0-v2.4.4
 
 Google account sign-ins and profile pages were added.
 ContainUL ID search was implemented for faster project discovery.
@@ -40,7 +40,7 @@ Project settings now have a fullscreen toggle and are organized into separate ta
 A "Duplicate to Editor" option was added to community apps to fork them as new projects.
 Guest Mode was introduced, allowing users to build apps without signing in and saving progress on their local machines only.
 
- v2.0.0-v2.3.0
+## v2.0.0-v2.3.0
 
 The `.tsp` file format was introduced, which stores images as Base64-encoded data URLs.
 The Windows 10/11 Fluent UI visual design language was implemented.
