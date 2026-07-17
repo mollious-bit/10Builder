@@ -1,7 +1,7 @@
 this is vibecoded app builder built with base44. there will only be one release and it will be updated with each new version, you cannot use old versions as i cant figure that out yet ): 
 it is a visual app builder and prototyping platform for designing, animating, and publishing interactive user interface screens. local-first file saving, and cloud collaboration features.
 
-### THIS IS A *DESKTOP ONLY* APP! Mobile app is an idea, but that version wont get often updates if i decide to make it.
+### This app is meant for desktop use! i made a mobile version, but it may have issues, as its not really tested. Check releases.
 
 ### The exe file is made using Nativefier, so there may be a bunch of problems. Let me know!
 
