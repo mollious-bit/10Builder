@@ -3,6 +3,8 @@ it is a visual app builder and prototyping platform for designing, animating, an
 
 ### THIS IS A *DESKTOP ONLY* APP! Mobile app is an idea, but that version wont get often updates if i decide to make it.
 
+### The exe file is made using Nativefier, so there may be a bunch of problems. Let me know!
+
 ## Highlights
 
 Cloud Sync & Cross-Platform Access: Open projects hosted in the cloud for editing from any device. Local drafts auto-backup and sync to your account when online.
