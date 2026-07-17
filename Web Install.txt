@@ -7,7 +7,7 @@ Open the app link
 Click the Install icon (a monitor with a down arrow) on the right side of the URL box
 Click Install (Or: Click the three-dots menu -> Save and share -> Install page as app)
 
- Microsoft Edge
+Microsoft Edge
 Open the app link.
 Click the Install icon (three squares and a plus sign) on the right side of the URL bar.
 Click Install.(Or: Click the three-dots menu -> Apps -> Install this site as an app)
