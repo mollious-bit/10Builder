@@ -1,0 +1,33 @@
+(https://10build.base44.app)
+install as PWA please!
+
+How to install as a PWA
+Google Chrome
+Open the app link
+Click the Install icon (a monitor with a down arrow) on the right side of the URL box
+Click Install (Or: Click the three-dots menu -> Save and share -> Install page as app)
+
+ Microsoft Edge
+Open the app link.
+Click the Install icon (three squares and a plus sign) on the right side of the URL bar.
+Click Install.(Or: Click the three-dots menu -> Apps -> Install this site as an app)
+
+Brave
+Open the app link.
+Click the Install icon (a monitor with a down arrow) on the right side of the URL bar.
+Click Install. (Or: Click the three-dots menu -> Save and share -> Install 10Build)
+
+Vivaldi
+Open the app link.
+Right-click on the active browser tab at the top.
+Progressive Web Apps - Install 10Build
+
+Safari (macOS)
+Open the app link.
+Click File in the top Mac menu bar.
+Click Add to Dock...Click Add.
+
+Firefox
+Firefox doesnt support PWA installation natively. 
+To install it here, you must use a third-party extension, such as the Progressive Web Apps for Firefox (FirefoxPWA) add-on.
+Otherwise, please open the link in Chrome, Edge, Brave, Vivaldi, or Safari to install it.  
