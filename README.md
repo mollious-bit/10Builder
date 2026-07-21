@@ -5,6 +5,8 @@ it is a visual app builder and prototyping platform for designing, animating, an
 
 ### The exe file is made using Nativefier, so there may be a bunch of problems. Let me know!
 
+# Suggestions now available! View on web or install the exe and suggest me something!
+
 ## Highlights
 
 Cloud Sync & Cross-Platform Access: Open projects hosted in the cloud for editing from any device. Local drafts auto-backup and sync to your account when online.
