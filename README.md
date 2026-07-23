@@ -3,7 +3,7 @@ it is a visual app builder and prototyping platform for designing, animating, an
 
 ### This app is meant for desktop use! i made a mobile version, but it may have issues, as its not really tested. Check releases.
 
-### The exe file is made using Nativefier, so there may be a bunch of problems. Let me know!
+### The exe file is made using Nativefier, so there may be a bunch of problems. Let me know! i also made a linux version using Appnativefier, but i havent tested it. You can download the appimage in releases.
 
 #### Suggestions now available! View on web or install the exe and suggest me something!
 
